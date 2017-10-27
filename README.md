@@ -1,7 +1,7 @@
 # Virtuoso_Avatars
 
 
-These are avatars created to be used in a research project conducted in High Fidelity. These avatars were created using Adobe Fuse.
+These are avatars created to be used in our research project conducted in High Fidelity. These avatars were created using Adobe Fuse.
 
 # Screenshots
 ![Screenshot](/drS_1.JPG)
