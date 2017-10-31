@@ -10,4 +10,6 @@ These are avatars created to be used in our research project conducted in High F
 
 ![Screenshot](/noah.JPG)
 
+![Screenshot](/mark2.JPG)
+
 ![Screenshot](/heath.JPG)
