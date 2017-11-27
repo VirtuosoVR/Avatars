@@ -15,3 +15,5 @@ These are avatars created to be used in our research project conducted in High F
 ![Screenshot](/heath.JPG)
 
 ![Screenshot](/dennis.JPG)
+
+![Screenshot](/carla.JPG)
